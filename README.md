@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Realtime Chat Application 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is build by using React and Firebase
 
 ## Available Scripts
 
@@ -39,32 +39,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Login page for registered user
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Login](https://user-images.githubusercontent.com/107454186/220146675-a66ff0db-475a-4e96-acfa-8c2709f6d438.jpg)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+2. New user can register using email and password
 
-### Analyzing the Bundle Size
+![Register](https://user-images.githubusercontent.com/107454186/220147092-329afabf-8b00-4257-9518-208678b580b3.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. Realtime chat between two users
+ 
+![Chat](https://user-images.githubusercontent.com/107454186/220147333-48412d9c-c0fd-4ff7-9eb3-2bcf8e9f3117.jpg)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
