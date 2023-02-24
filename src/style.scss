@@ -219,7 +219,14 @@
       }
      .chat{
        flex: 2;
- 
+         
+         .tap{
+           background-color: #f1f7ee;
+           height: 100%; 
+           display: flex;
+           align-items: center;
+           justify-content: center;
+         
          .chatInfo{
             height: 50px; 
             background-color: #469d89;
