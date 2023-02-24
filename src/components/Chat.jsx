@@ -12,6 +12,8 @@ const Chat = () => {
 
   return (
     <div className='chat'>
+    {data.user.displayName ? (
+     <>
        <div className="chatInfo">
         <span>{data.user?.displayName}</span>
         <div className="chatIcons">
@@ -24,7 +26,12 @@ const Chat = () => {
 
        <Messages /> 
        <Input />
-
+     </>
+    ) : (
+      <div className = 'tap'>
+      <span>Tap on user to start a conversation </span>
+      </div>
+      )}
     </div>
   );
 };
