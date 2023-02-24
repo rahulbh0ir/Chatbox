@@ -46,13 +46,20 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ![Login](https://user-images.githubusercontent.com/107454186/220146675-a66ff0db-475a-4e96-acfa-8c2709f6d438.jpg)
 
 
-2. New user can register using email and password
+2. New users can register using email and password
 
 ![Register](https://user-images.githubusercontent.com/107454186/220147092-329afabf-8b00-4257-9518-208678b580b3.jpg)
 
-3. Realtime chat between two users
+
+3.Home page 
+
+![Home1](https://user-images.githubusercontent.com/107454186/221173538-39c37902-0cc2-4a9f-a6bc-833e0da445a0.jpg)
+
+
+4. Realtime chat between two users
  
-![Chat](https://user-images.githubusercontent.com/107454186/220147333-48412d9c-c0fd-4ff7-9eb3-2bcf8e9f3117.jpg)
+![chat1](https://user-images.githubusercontent.com/107454186/221173513-dc773033-4bcc-4e3d-bf99-d49936eee1b1.jpg)
+
 
 
 
