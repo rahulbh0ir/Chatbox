@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Screenshots
 
-1. Login page for registered user
+1. Login page for registered users
 
 ![Login](https://user-images.githubusercontent.com/107454186/220146675-a66ff0db-475a-4e96-acfa-8c2709f6d438.jpg)
 
