@@ -2,6 +2,28 @@
 
 This project is build by using React and Firebase
 
+## Screenshots
+
+1. Login page for registered users
+
+![Login](https://user-images.githubusercontent.com/107454186/220146675-a66ff0db-475a-4e96-acfa-8c2709f6d438.jpg)
+
+
+2. New users can register using email and password
+
+![Register](https://user-images.githubusercontent.com/107454186/220147092-329afabf-8b00-4257-9518-208678b580b3.jpg)
+
+
+3.Home page 
+
+![Home1](https://user-images.githubusercontent.com/107454186/221173538-39c37902-0cc2-4a9f-a6bc-833e0da445a0.jpg)
+
+
+4. Realtime chat between two users
+ 
+![chat1](https://user-images.githubusercontent.com/107454186/221174030-df8c7739-f44c-4a3a-8f24-c24e0d4eac39.jpg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -38,30 +60,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Screenshots
-
-1. Login page for registered users
-
-![Login](https://user-images.githubusercontent.com/107454186/220146675-a66ff0db-475a-4e96-acfa-8c2709f6d438.jpg)
-
-
-2. New users can register using email and password
-
-![Register](https://user-images.githubusercontent.com/107454186/220147092-329afabf-8b00-4257-9518-208678b580b3.jpg)
-
-
-3.Home page 
-
-![Home1](https://user-images.githubusercontent.com/107454186/221173538-39c37902-0cc2-4a9f-a6bc-833e0da445a0.jpg)
-
-
-4. Realtime chat between two users
- 
-![chat1](https://user-images.githubusercontent.com/107454186/221174030-df8c7739-f44c-4a3a-8f24-c24e0d4eac39.jpg)
-
-
-
 
 
 
